@@ -1,16 +1,29 @@
-## Hi there 👋
+### **Hey 👋**
+I'm Mauricio, a creative technologist based in Ireland, working across spatial audio, XR, and AI.
 
-<!--
-**Maflova/Maflova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make immersive and interactive media feel real, not just look real, through soundscapes that shape perception, experiences, and storytelling. From spatial audio production and post-production, sound design and music composition to building technical pipelines, I work across the full creative-to-technical stack. 
 
-Here are some ideas to get you started:
+I sit at the overlap of audio production, technical development, and audio-visual perception. 
+Lately, my work includes AI-enabled creative workflows that extend how immersive media can be created and experienced.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+- Reaper, Pro Tools, Logic Pro
+- Ambisonics, Dolby Atmos, Eclipsa Audio
+- Max/MSP, FMOD, Wwise
+- Unity, C#, OpenXR
+- Python, TypeScript, React
+- LLMs, TTS
+
+---
+
+### Liner Notes
+- 🎧 I like building things that make people listen to the world differently
+- 🎸 Classically trained guitarist, guitar is where all of this started
+- 🎼 Composer and sound designer since 2016
+- 📄 Research presented at IEEE ISMAR, AES, and IEEE IWMM
+- 🗣️ Native Spanish speaker, plus English and some French
+
+&nbsp;
+[Website](https://mauriciofvargas.com) | [LinkedIn](https://linkedin.com/in/mauriciofvargas/)
