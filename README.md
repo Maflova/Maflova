@@ -1,4 +1,4 @@
-### **Hey! 👋 ** 
+### **Hey!** 👋
 I'm Mauricio, a creative technologist based in Ireland, working across spatial audio, XR, and AI.
 
 I make immersive and interactive media feel real, not just look real, through soundscapes that shape perception, experiences, and storytelling. From spatial audio production and post-production, sound design and music composition to building technical pipelines, I work across the full creative-to-technical stack. 
